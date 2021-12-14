@@ -1,0 +1,7 @@
+F:\广深科技代码\WebService\WebserviceGS\bin\WebserviceGS.dll.config
+F:\广深科技代码\WebService\WebserviceGS\bin\WebserviceGS.dll
+F:\广深科技代码\WebService\WebserviceGS\bin\WebserviceGS.pdb
+F:\广深科技代码\WebService\WebserviceGS\obj\Debug\WebserviceGS.csproj.CoreCompileInputs.cache
+F:\广深科技代码\WebService\WebserviceGS\obj\Debug\WebserviceGS.dll
+F:\广深科技代码\WebService\WebserviceGS\obj\Debug\WebserviceGS.pdb
+F:\广深科技代码\WebService\WebserviceGS\obj\Debug\WebserviceGS.csproj.AssemblyReference.cache
